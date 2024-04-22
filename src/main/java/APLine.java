@@ -1,7 +1,7 @@
 public class APLine
 {
   private int a, b, c;
-  public APLine (int one, int two, int c){
+  public APLine (int one, int two, int three){
     a = one;
     b = two;
     c = three;
